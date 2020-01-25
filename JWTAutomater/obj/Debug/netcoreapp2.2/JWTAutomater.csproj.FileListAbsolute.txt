@@ -1,0 +1,11 @@
+C:\Users\kalebhuddleston\git\JWTAutomater\JWTAutomater\bin\Debug\netcoreapp2.2\JWTAutomater.deps.json
+C:\Users\kalebhuddleston\git\JWTAutomater\JWTAutomater\bin\Debug\netcoreapp2.2\JWTAutomater.runtimeconfig.json
+C:\Users\kalebhuddleston\git\JWTAutomater\JWTAutomater\bin\Debug\netcoreapp2.2\JWTAutomater.runtimeconfig.dev.json
+C:\Users\kalebhuddleston\git\JWTAutomater\JWTAutomater\bin\Debug\netcoreapp2.2\JWTAutomater.dll
+C:\Users\kalebhuddleston\git\JWTAutomater\JWTAutomater\bin\Debug\netcoreapp2.2\JWTAutomater.pdb
+C:\Users\kalebhuddleston\git\JWTAutomater\JWTAutomater\obj\Debug\netcoreapp2.2\JWTAutomater.csprojAssemblyReference.cache
+C:\Users\kalebhuddleston\git\JWTAutomater\JWTAutomater\obj\Debug\netcoreapp2.2\JWTAutomater.csproj.CoreCompileInputs.cache
+C:\Users\kalebhuddleston\git\JWTAutomater\JWTAutomater\obj\Debug\netcoreapp2.2\JWTAutomater.AssemblyInfoInputs.cache
+C:\Users\kalebhuddleston\git\JWTAutomater\JWTAutomater\obj\Debug\netcoreapp2.2\JWTAutomater.AssemblyInfo.cs
+C:\Users\kalebhuddleston\git\JWTAutomater\JWTAutomater\obj\Debug\netcoreapp2.2\JWTAutomater.dll
+C:\Users\kalebhuddleston\git\JWTAutomater\JWTAutomater\obj\Debug\netcoreapp2.2\JWTAutomater.pdb
